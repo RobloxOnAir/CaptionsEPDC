@@ -1,0 +1,656 @@
+1
+00:00:00,080 --> 00:00:03,520
+all right today's C challenge the
+
+2
+00:00:01,560 --> 00:00:06,200
+scientist stealth no suppressors setting
+
+3
+00:00:03,520 --> 00:00:08,000
+UI and fast detection so you've got no
+
+4
+00:00:06,200 --> 00:00:08,880
+suppressors which means that will
+
+5
+00:00:08,000 --> 00:00:10,000
+literally going to have to knock every
+
+6
+00:00:08,880 --> 00:00:11,799
+single person out
+
+7
+00:00:10,000 --> 00:00:13,599
+instead and it also means that we're
+
+8
+00:00:11,799 --> 00:00:15,240
+going to have to find the second command
+
+9
+00:00:13,599 --> 00:00:17,160
+which might not be exactly the best
+
+10
+00:00:15,240 --> 00:00:18,520
+thing ever now aside from that we've got
+
+11
+00:00:17,160 --> 00:00:19,640
+hidden UI and FAS detection which is
+
+12
+00:00:18,520 --> 00:00:21,519
+like balancing
+
+13
+00:00:19,640 --> 00:00:22,960
+detection except that is far more
+
+14
+00:00:21,519 --> 00:00:24,240
+stressful now cyber if you could do me a
+
+15
+00:00:22,960 --> 00:00:26,000
+favor and not get caught over that that
+
+16
+00:00:24,240 --> 00:00:28,119
+would be
+
+17
+00:00:26,000 --> 00:00:30,679
+fantastic I mean that's convenient we
+
+18
+00:00:28,119 --> 00:00:33,079
+know who the second command is now so
+
+19
+00:00:30,679 --> 00:00:34,920
+so C I'm not going to go inside it's
+
+20
+00:00:33,079 --> 00:00:36,559
+fast detection right now all right and
+
+21
+00:00:34,920 --> 00:00:38,079
+that guard is going to detect me real
+
+22
+00:00:36,559 --> 00:00:41,480
+fast
+
+23
+00:00:38,079 --> 00:00:42,559
+so we're just going to wait here and
+
+24
+00:00:41,480 --> 00:00:43,800
+then we're going to have to realize that
+
+25
+00:00:42,559 --> 00:00:45,440
+is fast protection so we can't actually
+
+26
+00:00:43,800 --> 00:00:48,320
+lure anyone so hopefully you walk
+
+27
+00:00:45,440 --> 00:00:50,960
+towards us right now which is not
+
+28
+00:00:48,320 --> 00:00:52,760
+happening so we'll just make a cyber
+
+29
+00:00:50,960 --> 00:00:54,280
+problem we'll run past all of that and
+
+30
+00:00:52,760 --> 00:00:56,399
+we will hope that that guard does not
+
+31
+00:00:54,280 --> 00:00:58,280
+show up over here because if that
+
+32
+00:00:56,399 --> 00:01:00,160
+happens we're not going to be having a
+
+33
+00:00:58,280 --> 00:01:03,199
+good time
+
+34
+00:01:00,160 --> 00:01:05,519
+so we'll open up this door the guard
+
+35
+00:01:03,199 --> 00:01:06,760
+is did that guard go into the shed of
+
+36
+00:01:05,519 --> 00:01:09,400
+all places you know what let's not
+
+37
+00:01:06,760 --> 00:01:12,200
+question it we'll open up we'll take
+
+38
+00:01:09,400 --> 00:01:14,320
+this opportunity to open up this door we
+
+39
+00:01:12,200 --> 00:01:16,640
+will run as far away as
+
+40
+00:01:14,320 --> 00:01:19,000
+possible and the guards staying there
+
+41
+00:01:16,640 --> 00:01:20,200
+all right in that case hi there Falcon
+
+42
+00:01:19,000 --> 00:01:23,479
+nice to meet
+
+43
+00:01:20,200 --> 00:01:24,840
+you just don't be on radio all right I
+
+44
+00:01:23,479 --> 00:01:26,320
+mean we've got a screwdriver we'll
+
+45
+00:01:24,840 --> 00:01:29,040
+eventually need that so we might as well
+
+46
+00:01:26,320 --> 00:01:30,520
+grab that now all we got to do is make
+
+47
+00:01:29,040 --> 00:01:32,720
+our way back over there
+
+48
+00:01:30,520 --> 00:01:36,600
+and then afterwards not get attacked
+
+49
+00:01:32,720 --> 00:01:37,560
+this time which is far more stressful
+
+50
+00:01:36,600 --> 00:01:40,600
+than
+
+51
+00:01:37,560 --> 00:01:43,119
+it we'll just get this door open we'll
+
+52
+00:01:40,600 --> 00:01:45,560
+go inside and then afterwards cyber will
+
+53
+00:01:43,119 --> 00:01:49,079
+hopefully deal with the second command
+
+54
+00:01:45,560 --> 00:01:52,159
+and a decent amount of time
+
+55
+00:01:49,079 --> 00:01:54,920
+which that is not the second command hi
+
+56
+00:01:52,159 --> 00:01:58,399
+there I'm going to slide right past you
+
+57
+00:01:54,920 --> 00:02:00,600
+and then cyber is just a
+
+58
+00:01:58,399 --> 00:02:03,280
+guard which one is
+
+59
+00:02:00,600 --> 00:02:05,759
+it all right I'll grabb that key card
+
+60
+00:02:03,280 --> 00:02:07,479
+you don't get caught and then
+
+61
+00:02:05,759 --> 00:02:09,000
+afterwards actually I'm going to back
+
+62
+00:02:07,479 --> 00:02:10,759
+off to just so that cyber has an easier
+
+63
+00:02:09,000 --> 00:02:13,800
+time moving that back without getting
+
+64
+00:02:10,759 --> 00:02:17,800
+the tech bring it this way
+
+65
+00:02:13,800 --> 00:02:19,840
+don't why would you know what never mind
+
+66
+00:02:17,800 --> 00:02:21,319
+we'll take this risky time to go inside
+
+67
+00:02:19,840 --> 00:02:23,319
+which I mean it's not that bad but it
+
+68
+00:02:21,319 --> 00:02:25,040
+isn't great either hi that Guard we're
+
+69
+00:02:23,319 --> 00:02:27,040
+just going to walk right past you and
+
+70
+00:02:25,040 --> 00:02:30,599
+then afterwards we use the key card
+
+71
+00:02:27,040 --> 00:02:31,840
+reader and now all we got to do is wait
+
+72
+00:02:30,599 --> 00:02:34,160
+cyber you know you can come down here
+
+73
+00:02:31,840 --> 00:02:36,239
+right and help me deal with the
+
+74
+00:02:34,160 --> 00:02:39,959
+guard all right I suppose I'm doing this
+
+75
+00:02:36,239 --> 00:02:42,360
+myself then so in that case we'll wait
+
+76
+00:02:39,959 --> 00:02:44,440
+for this to complete which it should be
+
+77
+00:02:42,360 --> 00:02:46,800
+done soon hello
+
+78
+00:02:44,440 --> 00:02:48,879
+there and there we go that's that taken
+
+79
+00:02:46,800 --> 00:02:51,560
+care of and now all we got to do is use
+
+80
+00:02:48,879 --> 00:02:54,319
+that screwdriver we have to avoid these
+
+81
+00:02:51,560 --> 00:02:56,360
+guards actually first of all hi there
+
+82
+00:02:54,319 --> 00:02:58,920
+folks the control room doors on the
+
+83
+00:02:56,360 --> 00:03:01,239
+other side of course it is in that case
+
+84
+00:02:58,920 --> 00:03:02,879
+we'll go through here then
+
+85
+00:03:01,239 --> 00:03:04,959
+there are hi there there are a lot of
+
+86
+00:03:02,879 --> 00:03:06,360
+options over there and of course right
+
+87
+00:03:04,959 --> 00:03:08,720
+Falcons over there which means that we
+
+88
+00:03:06,360 --> 00:03:09,959
+can't actually do anything right now so
+
+89
+00:03:08,720 --> 00:03:12,319
+fcon if you can move right now that
+
+90
+00:03:09,959 --> 00:03:12,319
+would be
+
+91
+00:03:13,280 --> 00:03:19,000
+fantastic this is awkward there we go
+
+92
+00:03:17,000 --> 00:03:21,360
+and I watch as this gu turns my way and
+
+93
+00:03:19,000 --> 00:03:23,840
+then starts detecting me
+
+94
+00:03:21,360 --> 00:03:26,200
+which I'm actually very happy that it
+
+95
+00:03:23,840 --> 00:03:28,040
+there we go I mean at least it was timed
+
+96
+00:03:26,200 --> 00:03:30,159
+well so that shouldn't cause us too many
+
+97
+00:03:28,040 --> 00:03:33,159
+problems and then once Rivera gives the
+
+98
+00:03:30,159 --> 00:03:34,920
+information we can get this rewired
+
+99
+00:03:33,159 --> 00:03:36,519
+without getting caught because
+
+100
+00:03:34,920 --> 00:03:39,080
+everything went just fine after Falcon
+
+101
+00:03:36,519 --> 00:03:41,280
+left which it did not go just fine after
+
+102
+00:03:39,080 --> 00:03:42,920
+the Falcon left that guard is still
+
+103
+00:03:41,280 --> 00:03:44,680
+detecting me right now and I not feeling
+
+104
+00:03:42,920 --> 00:03:46,360
+comfortable about it all right we could
+
+105
+00:03:44,680 --> 00:03:50,879
+technically slide past both of these
+
+106
+00:03:46,360 --> 00:03:53,760
+guards and not get
+
+107
+00:03:50,879 --> 00:03:56,760
+seriously of course you know what our
+
+108
+00:03:53,760 --> 00:03:58,840
+priority should first of all not get
+
+109
+00:03:56,760 --> 00:04:02,040
+detected by Falcon but also not get
+
+110
+00:03:58,840 --> 00:04:05,079
+detected by any guardi in general so I
+
+111
+00:04:02,040 --> 00:04:06,760
+suppose of course we're going to go down
+
+112
+00:04:05,079 --> 00:04:08,120
+we're going to not get caught and then
+
+113
+00:04:06,760 --> 00:04:11,840
+we're just going to wait
+
+114
+00:04:08,120 --> 00:04:14,200
+here we're just going to you're still
+
+115
+00:04:11,840 --> 00:04:16,799
+there you are over here now walk past
+
+116
+00:04:14,200 --> 00:04:20,320
+right just move past me don't cause us
+
+117
+00:04:16,799 --> 00:04:21,880
+any problems and presumably there we go
+
+118
+00:04:20,320 --> 00:04:25,040
+now I can finally get the electrical
+
+119
+00:04:21,880 --> 00:04:27,240
+panel rewired and go inside
+
+120
+00:04:25,040 --> 00:04:30,560
+which surely this won't go horribly
+
+121
+00:04:27,240 --> 00:04:30,560
+wrong right
+
+122
+00:04:30,800 --> 00:04:35,800
+and that's everyone clear which this
+
+123
+00:04:34,080 --> 00:04:37,360
+door is precarious I should bag those
+
+124
+00:04:35,800 --> 00:04:39,440
+bodies up we will not do that though
+
+125
+00:04:37,360 --> 00:04:41,080
+because we can and then afterwards all
+
+126
+00:04:39,440 --> 00:04:43,400
+we got to do is manage taking people out
+
+127
+00:04:41,080 --> 00:04:45,320
+which how hard could that possibly be we
+
+128
+00:04:43,400 --> 00:04:46,440
+will start with Falcon and we will
+
+129
+00:04:45,320 --> 00:04:48,680
+remember that actually we should
+
+130
+00:04:46,440 --> 00:04:51,320
+probably bag up Falcon first just in
+
+131
+00:04:48,680 --> 00:04:54,039
+case anyone walks here and I'm realizing
+
+132
+00:04:51,320 --> 00:04:56,960
+that I actually don't have any solutions
+
+133
+00:04:54,039 --> 00:04:58,639
+for entering one of these there's a
+
+134
+00:04:56,960 --> 00:05:00,840
+guard over there I think I was being
+
+135
+00:04:58,639 --> 00:05:02,400
+hidden by that column or whatever that
+
+136
+00:05:00,840 --> 00:05:04,560
+is but we're just going to go in here
+
+137
+00:05:02,400 --> 00:05:07,199
+and take advantage of this time we have
+
+138
+00:05:04,560 --> 00:05:09,639
+and of course the W Cutters are here not
+
+139
+00:05:07,199 --> 00:05:11,160
+that we really need it but regardless
+
+140
+00:05:09,639 --> 00:05:12,960
+we're going to grab the USB mainly
+
+141
+00:05:11,160 --> 00:05:15,400
+because we can and now all we got to do
+
+142
+00:05:12,960 --> 00:05:17,639
+is clear the remaining Gods which can't
+
+143
+00:05:15,400 --> 00:05:19,759
+really happen if you're over here I mean
+
+144
+00:05:17,639 --> 00:05:22,560
+it's technically clear over there right
+
+145
+00:05:19,759 --> 00:05:24,680
+we could do this this is a bad idea so
+
+146
+00:05:22,560 --> 00:05:26,880
+we're just going to wait hold on it's
+
+147
+00:05:24,680 --> 00:05:31,120
+also like clear right now you know what
+
+148
+00:05:26,880 --> 00:05:31,120
+in that case let's try something
+
+149
+00:05:34,919 --> 00:05:38,520
+this is a very bad this is very bad
+
+150
+00:05:36,880 --> 00:05:40,919
+timing right
+
+151
+00:05:38,520 --> 00:05:42,280
+now that was not supposed to happen
+
+152
+00:05:40,919 --> 00:05:43,560
+we'll go down here I think cyber's going
+
+153
+00:05:42,280 --> 00:05:45,039
+to take that guard out and then
+
+154
+00:05:43,560 --> 00:05:47,479
+afterwards we're going to clear the
+
+155
+00:05:45,039 --> 00:05:49,720
+remaining guard Falcon ready out so that
+
+156
+00:05:47,479 --> 00:05:52,880
+means that we should be clearing the
+
+157
+00:05:49,720 --> 00:05:54,919
+entire map actually so we can do that
+
+158
+00:05:52,880 --> 00:05:58,360
+without any problems and all we got to
+
+159
+00:05:54,919 --> 00:06:02,160
+do is wait for Sparrow which hold on
+
+160
+00:05:58,360 --> 00:06:05,039
+let's do that and let's do that there we
+
+161
+00:06:02,160 --> 00:06:09,319
+go now Sparrow get us out of here before
+
+162
+00:06:05,039 --> 00:06:13,690
+cyber keeps that's just under 6 minutes
+
+163
+00:06:09,319 --> 00:06:33,100
+cheers everyone have a great time
+
+164
+00:06:13,690 --> 00:06:33,100
+[Music]
+
